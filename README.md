@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=CFCFCF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Ritika+%F0%9F%91%8B;Building+Aienaa+%E2%80%94+learn+AI+tools+%26+tech;Currently+diving+into+Next.js+%2B+Three.js;DevOps+%F0%9F%A4%9D+Web+Dev" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=CFCFCF&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+Ritika+%F0%9F%91%8B;Building+Aienaa+%E2%80%94+learn+AI+tools;Diving+into+Next.js+%2B+Three.js;DevOps+%F0%9F%A4%9D+Web+Dev" alt="Typing SVG" />
 
 </div>
 
@@ -87,12 +87,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThisIsRitika&show_icons=true&theme=transparent&hide_border=true&title_color=CFCFCF&icon_color=CFCFCF&text_color=9e9e9e&hide_rank=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIsRitika&layout=compact&theme=transparent&hide_border=true&title_color=CFCFCF&text_color=9e9e9e" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=ThisIsRitika&show_icons=true&theme=transparent&hide_border=true&title_color=CFCFCF&icon_color=CFCFCF&text_color=9e9e9e&hide_rank=false" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThisIsRitika&layout=compact&theme=transparent&hide_border=true&title_color=CFCFCF&text_color=9e9e9e" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsRitika&theme=transparent&hide_border=true&stroke=2b2b2b&ring=CFCFCF&fire=CFCFCF&currStreakLabel=CFCFCF" />
+  <img src="https://streak-stats.demolab.com/?user=ThisIsRitika&theme=transparent&hide_border=true&stroke=2b2b2b&ring=CFCFCF&fire=CFCFCF&currStreakLabel=CFCFCF" />
 </p>
 
 <br/>
