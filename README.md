@@ -95,9 +95,16 @@
 
 ## Contribution Graph
  
-<p align="center">
-  <img src="https://ghchart.rshah.org/fec2ff/ThisIsRitika" alt="Ritika's GitHub contribution graph" />
-</p>
+## Contribution Graph
+
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="2b2b2b" cellpadding="20">
+      <img src="https://ghchart.rshah.org/fec2ff/ThisIsRitika" width="100%" alt="Ritika's GitHub contribution graph" />
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 ## Now Playing on Spotify
