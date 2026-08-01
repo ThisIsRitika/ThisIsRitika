@@ -95,64 +95,17 @@
 
 ## Contribution Graph — 3D
 
-<!--
-  This is an isometric 3D version of your contribution calendar (less common than the snake).
-  It updates automatically once you set up the GitHub Action below.
-  Steps:
-  1. Create .github/workflows/3d-contrib.yml in this repo (see snippet below).
-  2. Push to main — the Action will generate the SVG/GIFs and push them to a "profile-3d-contrib" branch.
-  3. These images will then render your live 3D contribution graph.
--->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThisIsRitika/ThisIsRitika/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
-<details>
-<summary>⚙️ 3D contribution graph workflow (click to expand)</summary>
+<br>
 
-Create this file at `.github/workflows/3d-contrib.yml`:
-
-```yaml
-name: 3D Contribution Graph
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ThisIsRitika
-      - name: Commit and push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -f profile-3d-contrib/*.svg
-          git commit -m "Update 3D contribution graph" || exit 0
-          git push origin HEAD:profile-3d-contrib --force
-```
-
-Commit that file, push, and the 3D graph will render within a few minutes. You can also swap `profile-night-rainbow.svg` for other themes it generates (e.g. `profile-south.svg`, `profile-night-green.svg`) — check the branch after your first run to see all options.
-
-</details>
-
-<br/>
-
-<!--
-## Trophies (optional — uncomment to use)
+## Trophies 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ThisIsRitika&theme=darkhub&no-frame=true&column=7&margin-w=8" />
 </p>
--->
+
 
 ## Now Playing on Spotify
 
