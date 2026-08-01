@@ -162,7 +162,7 @@ Commit that file, push, and the 3D graph will render within a few minutes. You c
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lpyxsnspeytazmyrlo7qrgdxiq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lpyxsnspeytazmyrlo7qrgdxiq&cover_image=true&theme=default&show_offline=false&background_color=808080&interchange=false&profanity=false&hide_remaster=false&bar_color=fb1851&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lpyxsnspeytazmyrlo7qrgdxiq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
   </a>
 </p>
 
