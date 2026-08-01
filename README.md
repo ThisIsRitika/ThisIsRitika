@@ -42,7 +42,7 @@
 ## Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=E34F26" height="120" />
+  <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=E34F26" width="300" height="70" />
   <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E" height="120" />
   <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white" height="120" />
   <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB" height="120" />
