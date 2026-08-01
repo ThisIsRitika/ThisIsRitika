@@ -43,31 +43,31 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square&logo=html5&logoColor=E34F26" width="80" height="28" />
-  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E" width="148" height="30" />
-  <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white" width="90" height="30" />
-  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB" width="110" height="30" />
-  <img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB" width="100" height="30" />
-  <img src="https://img.shields.io/badge/Next.js-2b2b2b?style=flat-square&logo=nextdotjs&logoColor=white" width="120" height="30" />
-  <img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=threedotjs&logoColor=white" width="129" height="30" />
-  <img src="https://img.shields.io/badge/Vite-2b2b2b?style=flat-square&logo=vite&logoColor=646CFF" width="90" height="30" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-2b2b2b?style=flat-square&logo=tailwindcss&logoColor=38B2AC" width="168" height="30" />
-  <img src="https://img.shields.io/badge/Node.js-2b2b2b?style=flat-square&logo=nodedotjs&logoColor=339933" width="120" height="30" />
-  <img src="https://img.shields.io/badge/Express.js-2b2b2b?style=flat-square&logo=express&logoColor=white" width="148" height="30" />
-  <img src="https://img.shields.io/badge/NestJS-2b2b2b?style=flat-square&logo=nestjs&logoColor=E0234E" width="110" height="30" />
-  <img src="https://img.shields.io/badge/MongoDB-2b2b2b?style=flat-square&logo=mongodb&logoColor=47A248" width="120" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-2b2b2b?style=flat-square&logo=mysql&logoColor=4479A1" width="100" height="30" />
-  <img src="https://img.shields.io/badge/Supabase-2b2b2b?style=flat-square&logo=supabase&logoColor=3ECF8E" width="129" height="30" />
-  <img src="https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED" width="110" height="30" />
-  <img src="https://img.shields.io/badge/Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5" width="148" height="30" />
-  <img src="https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=F05032" width="81" height="30" />
-  <img src="https://img.shields.io/badge/Vercel-2b2b2b?style=flat-square&logo=vercel&logoColor=white" width="110" height="30" />
-  <img src="https://img.shields.io/badge/Render-2b2b2b?style=flat-square&logo=render&logoColor=46E3B7" width="110" height="30" />
-  <img src="https://img.shields.io/badge/Figma-2b2b2b?style=flat-square&logo=figma&logoColor=F24E1E" width="100" height="30" />
-  <img src="https://img.shields.io/badge/Blender-2b2b2b?style=flat-square&logo=blender&logoColor=F5792A" width="120" height="30" />
-  <img src="https://img.shields.io/badge/Canva-2b2b2b?style=flat-square&logo=canva&logoColor=00C4CC" width="100" height="30" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-2b2b2b?style=flat-square&logo=adobepremiere&logoColor=9999FF" width="227" height="30" />
-  <img src="https://img.shields.io/badge/Notion-2b2b2b?style=flat-square&logo=notion&logoColor=white" width="110" height="30" />
-  <img src="https://img.shields.io/badge/Postman-2b2b2b?style=flat-square&logo=postman&logoColor=FF6C37" width="120" height="30" />
+  <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E" width="148" height="28" />
+  <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white" width="90" height="28" />
+  <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB" width="110" height="28" />
+  <img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB" width="100" height="28" />
+  <img src="https://img.shields.io/badge/Next.js-2b2b2b?style=flat-square&logo=nextdotjs&logoColor=white" width="120" height="28" />
+  <img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=threedotjs&logoColor=white" width="129" height="28" />
+  <img src="https://img.shields.io/badge/Vite-2b2b2b?style=flat-square&logo=vite&logoColor=646CFF" width="90" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-2b2b2b?style=flat-square&logo=tailwindcss&logoColor=38B2AC" width="168" height="28" />
+  <img src="https://img.shields.io/badge/Node.js-2b2b2b?style=flat-square&logo=nodedotjs&logoColor=339933" width="120" height="28" />
+  <img src="https://img.shields.io/badge/Express.js-2b2b2b?style=flat-square&logo=express&logoColor=white" width="148" height="28" />
+  <img src="https://img.shields.io/badge/NestJS-2b2b2b?style=flat-square&logo=nestjs&logoColor=E0234E" width="110" height="28" />
+  <img src="https://img.shields.io/badge/MongoDB-2b2b2b?style=flat-square&logo=mongodb&logoColor=47A248" width="120" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-2b2b2b?style=flat-square&logo=mysql&logoColor=4479A1" width="100" height="28" />
+  <img src="https://img.shields.io/badge/Supabase-2b2b2b?style=flat-square&logo=supabase&logoColor=3ECF8E" width="129" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED" width="110" height="28" />
+  <img src="https://img.shields.io/badge/Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5" width="148" height="28" />
+  <img src="https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=F05032" width="81" height="28" />
+  <img src="https://img.shields.io/badge/Vercel-2b2b2b?style=flat-square&logo=vercel&logoColor=white" width="110" height="28" />
+  <img src="https://img.shields.io/badge/Render-2b2b2b?style=flat-square&logo=render&logoColor=46E3B7" width="110" height="28" />
+  <img src="https://img.shields.io/badge/Figma-2b2b2b?style=flat-square&logo=figma&logoColor=F24E1E" width="100" height="28" />
+  <img src="https://img.shields.io/badge/Blender-2b2b2b?style=flat-square&logo=blender&logoColor=F5792A" width="120" height="28" />
+  <img src="https://img.shields.io/badge/Canva-2b2b2b?style=flat-square&logo=canva&logoColor=00C4CC" width="100" height="28" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-2b2b2b?style=flat-square&logo=adobepremiere&logoColor=9999FF" width="227" height="28" />
+  <img src="https://img.shields.io/badge/Notion-2b2b2b?style=flat-square&logo=notion&logoColor=white" width="110" height="28" />
+  <img src="https://img.shields.io/badge/Postman-2b2b2b?style=flat-square&logo=postman&logoColor=FF6C37" width="120" height="28" />
 </p>
 
 <br/>
