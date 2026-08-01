@@ -88,7 +88,7 @@
 ## Contribution Graph — 3D
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThisIsRitika/ThisIsRitika/profile-3d-contrib/profile-3d-contrib/profile-night-season-animate.svg" />
+  <img src="https://raw.githubusercontent.com/ThisIsRitika/ThisIsRitika/profile-3d-contrib/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 <br/>
