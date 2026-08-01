@@ -22,14 +22,6 @@
 
 ## Connect With Me
 
-<!--
-  Replace the # below with your real links.
-  LinkedIn should look like: https://linkedin.com/in/ritika-balhara-5591aa280
-  Instagram: https://instagram.com/YOUR_HANDLE
-  Pinterest: https://pinterest.com/YOUR_HANDLE
-  Email: mailto:your@email.com
--->
-
 <p align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -99,13 +91,7 @@
   <img src="https://raw.githubusercontent.com/ThisIsRitika/ThisIsRitika/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
-<br>
-
-## Trophies 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThisIsRitika&theme=darkhub&no-frame=true&column=7&margin-w=8" />
-</p>
-
+<br/>
 
 ## Now Playing on Spotify
 
