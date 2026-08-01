@@ -54,30 +54,26 @@
   <img src="https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square&logo=javascript&logoColor=F7DF1E" height="36" />
   <img src="https://img.shields.io/badge/Java-2b2b2b?style=flat-square&logo=openjdk&logoColor=white" height="36" />
   <img src="https://img.shields.io/badge/Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB" height="36" />
-  <br/>
   <img src="https://img.shields.io/badge/React-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB" height="36" />
   <img src="https://img.shields.io/badge/Next.js-2b2b2b?style=flat-square&logo=nextdotjs&logoColor=white" height="36" />
   <img src="https://img.shields.io/badge/Three.js-2b2b2b?style=flat-square&logo=threedotjs&logoColor=white" height="36" />
   <img src="https://img.shields.io/badge/Vite-2b2b2b?style=flat-square&logo=vite&logoColor=646CFF" height="36" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-2b2b2b?style=flat-square&logo=tailwindcss&logoColor=38B2AC" height="36" />
-  <br/>
   <img src="https://img.shields.io/badge/Node.js-2b2b2b?style=flat-square&logo=nodedotjs&logoColor=339933" height="36" />
   <img src="https://img.shields.io/badge/Express.js-2b2b2b?style=flat-square&logo=express&logoColor=white" height="36" />
   <img src="https://img.shields.io/badge/NestJS-2b2b2b?style=flat-square&logo=nestjs&logoColor=E0234E" height="36" />
   <img src="https://img.shields.io/badge/MongoDB-2b2b2b?style=flat-square&logo=mongodb&logoColor=47A248" height="36" />
   <img src="https://img.shields.io/badge/MySQL-2b2b2b?style=flat-square&logo=mysql&logoColor=4479A1" height="36" />
   <img src="https://img.shields.io/badge/Supabase-2b2b2b?style=flat-square&logo=supabase&logoColor=3ECF8E" height="36" />
-  <br/>
   <img src="https://img.shields.io/badge/Docker-2b2b2b?style=flat-square&logo=docker&logoColor=2496ED" height="36" />
   <img src="https://img.shields.io/badge/Kubernetes-2b2b2b?style=flat-square&logo=kubernetes&logoColor=326CE5" height="36" />
   <img src="https://img.shields.io/badge/Git-2b2b2b?style=flat-square&logo=git&logoColor=F05032" height="36" />
   <img src="https://img.shields.io/badge/Vercel-2b2b2b?style=flat-square&logo=vercel&logoColor=white" height="36" />
   <img src="https://img.shields.io/badge/Render-2b2b2b?style=flat-square&logo=render&logoColor=46E3B7" height="36" />
-  <br/>
   <img src="https://img.shields.io/badge/Figma-2b2b2b?style=flat-square&logo=figma&logoColor=F24E1E" height="36" />
   <img src="https://img.shields.io/badge/Blender-2b2b2b?style=flat-square&logo=blender&logoColor=F5792A" height="36" />
   <img src="https://img.shields.io/badge/Canva-2b2b2b?style=flat-square&logo=canva&logoColor=00C4CC" height="36" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-2b2b2b?style=flat-square&logo=adobepremierepro&logoColor=9999FF" height="36" />
+  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-2b2b2b?style=flat-square&logo=adobepremiere&logoColor=9999FF" height="36" />
   <img src="https://img.shields.io/badge/Notion-2b2b2b?style=flat-square&logo=notion&logoColor=white" height="36" />
   <img src="https://img.shields.io/badge/Postman-2b2b2b?style=flat-square&logo=postman&logoColor=FF6C37" height="36" />
 </p>
@@ -162,7 +158,7 @@ Commit that file, push, and the 3D graph will render within a few minutes. You c
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31lpyxsnspeytazmyrlo7qrgdxiq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lpyxsnspeytazmyrlo7qrgdxiq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lpyxsnspeytazmyrlo7qrgdxiq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=fec2ff&bar_color_cover=false" />
   </a>
 </p>
 
