@@ -85,17 +85,15 @@
 
 <br/>
 
-<!--## Contribution Graph — 3D
+## Contribution Graph — 3D
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThisIsRitika/ThisIsRitika/profile-3d-contrib/profile-3d-contrib/profile-night-view.svg" />
 </p>
 
-<br/>-->
-
-## Contribution Graph
+<br/>
  
-## Contribution Graph
+<!--## Contribution Graph
 
 <table width="100%">
   <tr>
@@ -103,9 +101,7 @@
       <img src="https://ghchart.rshah.org/fec2ff/ThisIsRitika" width="100%" alt="Ritika's GitHub contribution graph" />
     </td>
   </tr>
-</table>
-
-<br/>
+</table>-->
 
 ## Now Playing on Spotify
 
